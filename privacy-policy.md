@@ -4,13 +4,13 @@
 
 ## Introduction
 
-Hikma Games ("we," "our," or "us") operates the TasbeehTaps mobile application (the "App"). This Privacy Policy explains how we collect, use, and protect your information when you use our App.
+Hikma Games ("we," "our," or "us") operates the zikrAid mobile application (the "App"). This Privacy Policy explains how we collect, use, and protect your information when you use our App.
 
 ## Information We Collect
 
 ### Information We Do NOT Collect
 
-TasbeehTaps is designed with your privacy in mind. We do not collect, store, or transmit any personal information. Specifically, we do not collect:
+zikrAid is designed with your privacy in mind. We do not collect, store, or transmit any personal information. Specifically, we do not collect:
 
 - Names, email addresses, or contact information
 - Location data
@@ -40,7 +40,7 @@ This data:
 The App contains optional links to external services:
 
 - **Buy Me a Coffee** - For voluntary donations
-- **Patreon** - For voluntary donations
+- **PayPal** - For voluntary donations
 - **Google Play Store** - For app ratings
 - **Email** - For contacting us
 
@@ -48,7 +48,7 @@ When you click these links, you leave our App and are subject to the privacy pol
 
 ### No Ads or Analytics
 
-TasbeehTaps does not contain:
+zikrAid does not contain:
 - Advertisements
 - Analytics services
 - Crash reporting services
@@ -60,7 +60,7 @@ Since all data is stored locally on your device and we do not collect any person
 
 ## Children's Privacy
 
-TasbeehTaps does not collect personal information from anyone, including children under 13. The App is safe for users of all ages.
+zikrAid does not collect personal information from anyone, including children under 13. The App is safe for users of all ages.
 
 ## Changes to This Privacy Policy
 

@@ -4,11 +4,11 @@
 
 ## Agreement to Terms
 
-By downloading, installing, or using TasbeehTaps ("the App"), you agree to be bound by these Terms of Use. If you do not agree to these terms, please do not use the App.
+By downloading, installing, or using zikrAid ("the App"), you agree to be bound by these Terms of Use. If you do not agree to these terms, please do not use the App.
 
 ## Description of Service
 
-TasbeehTaps is a mobile application designed to help Muslims practice dhikr (remembrance of Allah) through interactive counting tools, including:
+zikrAid is a mobile application designed to help Muslims practice dhikr (remembrance of Allah) through interactive counting tools, including:
 
 - Tasbeeh (glorification) counters
 - Hamd (praise) counters
@@ -22,7 +22,7 @@ TasbeehTaps is a mobile application designed to help Muslims practice dhikr (rem
 
 ### Permitted Use
 
-You may use TasbeehTaps for personal, non-commercial purposes to:
+You may use zikrAid for personal, non-commercial purposes to:
 - Track your dhikr and Islamic remembrance
 - Learn and practice Islamic supplications
 - Monitor your daily worship activities
@@ -50,7 +50,7 @@ The Islamic phrases, duas, and religious content included in the App are from tr
 
 ### Religious Guidance
 
-TasbeehTaps is a tool to assist with dhikr practice. It is not a substitute for proper Islamic education or guidance from qualified scholars. The App does not provide religious rulings (fatwas) or personalized religious advice.
+zikrAid is a tool to assist with dhikr practice. It is not a substitute for proper Islamic education or guidance from qualified scholars. The App does not provide religious rulings (fatwas) or personalized religious advice.
 
 ### Accuracy
 
@@ -88,7 +88,7 @@ Continued use of the App after changes constitutes acceptance of the new terms.
 
 ## Donations
 
-The App includes optional links to donation platforms (Buy Me a Coffee, Patreon). These donations are voluntary and are governed by the respective platforms' terms of service. Donations do not entitle users to additional features or support beyond what is provided to all users.
+The App includes optional links to donation platforms (Buy Me a Coffee, PayPal). These donations are voluntary and are governed by the respective platforms' terms of service. Donations do not entitle users to additional features or support beyond what is provided to all users.
 
 ## Governing Law
 
@@ -106,4 +106,4 @@ If you have any questions about these Terms of Use, please contact us at:
 
 ---
 
-*By using TasbeehTaps, you acknowledge that you have read, understood, and agree to be bound by these Terms of Use.*
+*By using zikrAid, you acknowledge that you have read, understood, and agree to be bound by these Terms of Use.*
